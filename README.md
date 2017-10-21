@@ -3,7 +3,7 @@ Writing
 
 **Writing** is a lightweight distraction-free text editor, in the browser.
 
-Live version: [Writing](https://josephernest.github.io/writing/).
+Live version: [Writing](https://oopsix.github.io/writing/).
 
 <img src="http://i.imgur.com/c56hDwi.gif" />
 
